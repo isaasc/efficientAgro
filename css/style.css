@@ -134,7 +134,7 @@ img {
 /* BANNER INICIAL */
 .hero-inner {
     height: 65vh;
-    background: url(/assets/paisagem.jpg) no-repeat center center;
+    background: url(./assets/paisagem.jpg) no-repeat center center;
     background-size: cover;
 }
 
