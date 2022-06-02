@@ -21,7 +21,7 @@ Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/isaasc/efficientAgro
+git clone https://github.com/isaasc/efficientAgro.git
 ```
 
 **Sugestão:** Utilize o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
